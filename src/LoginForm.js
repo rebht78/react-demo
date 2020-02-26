@@ -44,7 +44,7 @@ class LoginForm extends React.Component {
             htmlType="submit"
             className="login-form-button"
           >
-            <Link to="/dashboard">Login</Link>
+            Login
           </Button>
         </Form.Item>
       </Form>
