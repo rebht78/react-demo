@@ -1,6 +1,5 @@
 import React from "react";
 import { Form, Icon, Input, Button } from "antd";
-import { Link } from "react-router-dom";
 import "antd/dist/antd.css";
 import "./styles.css";
 class LoginForm extends React.Component {
